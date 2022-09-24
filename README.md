@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am majoring in Artificial Intelligence Software
+####### I am majoring in Artificial Intelligence Software
 
 
 <!--
