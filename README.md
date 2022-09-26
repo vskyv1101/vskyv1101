@@ -1,4 +1,5 @@
 ### Hi there 👋
+###### I'm from Korea :kr:
 ###### I am majoring in Artificial Intelligence Software
 
 
