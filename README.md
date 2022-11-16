@@ -14,6 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)<br>
 ## 🕴️My activities
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskyv1101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskyv1101&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)><br>
 ## ✏️The program languages I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vskyv1101&layout=compact)](https://github.com/vskyv1101/github-readme-stats)<br>
