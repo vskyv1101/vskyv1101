@@ -1,12 +1,10 @@
+Here are some ideas to get you started:
 ### Hi there 👋
 ###### I'm from Korea :kr:
 ###### I am majoring in Artificial Intelligence Software
 
 
 
-<!--
-**vskyv1101/vskyv1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![vskyv1101's GitHub stats](https://github-readme-stats.vercel.app/apivskyv1101=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
