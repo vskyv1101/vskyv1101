@@ -1,7 +1,11 @@
 ### I'm from Korea 🇰🇷
 ### I am majoring in Artificial Intelligence Software
+## 💬 My sns
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 
-## 💻Tools
+## 💻 Language
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -13,7 +17,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)<br>
-## 🕴️My activities
+## 🕴️ My activities
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskyv1101&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)><br>
-## ✏️The program languages I use
+## ✏️ Frequently-used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vskyv1101&layout=compact)](https://github.com/vskyv1101/github-readme-stats)<br>
