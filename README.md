@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Kim%20Ha%20Neul's%20GitHub%20&fontAlignY=40&color=7BD1D2)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Ha%20Neul's%20&fontAlignY=40&color=7BD1D2)
 
 
 <h3 align="center">My Sns 📱</h3>
