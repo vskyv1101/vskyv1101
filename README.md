@@ -1,10 +1,12 @@
-### I'm from Korea 🇰🇷 
-### I am majoring in Artificial Intelligence Software 🤖
-## 💬 My sns
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+<div align="center">
 
+<h3 align="center">My Sns 📱</h3>
+
+<a href="https://www.instagram.com/a1wxys/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1wxys/"/></a>
+
+[![방문자](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamerim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=&icon_color=%23E1DEDE&title=방문자&edge_flat=false)](https://github.com/vskyv1101)
+<p>
+  
 ## 💻 Tool / Language
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,7 +21,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
-## 🕴️ My activities
+<h3 align="center">Gihub stats 📓</h3>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskyv1101&show_icons=true&theme=dark)<br>
+  
 ## ✏️ Frequently-used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vskyv1101&layout=compact)](https://github.com/vskyv1101/github-readme-stats)<br>
