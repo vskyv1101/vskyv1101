@@ -18,7 +18,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
-<h3 align="center">Gihub stats 📓</h3>
+<h3 align="center">Github stats 📓</h3>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskyv1101&show_icons=true&theme=dark)<br>
   
