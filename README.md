@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Ha%20Neul's%20&fontAlignY=40&color=7BD1D2)
 
 
-<h3 align="center">My Sns 📱</h3>
+<h3 align="center">My SNS 📱</h3>
 
 <a href="https://www.instagram.com/a1wxys/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1wxys/"/></a>
 
