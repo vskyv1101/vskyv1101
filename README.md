@@ -1,6 +1,7 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Kim%20Ha%20Neul's%20GitHub%20&fontAlignY=40&color=7BD1D2)
+
 
 <h3 align="center">My Sns 📱</h3>
 
@@ -8,8 +9,6 @@
 
 [![방문자](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamerim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=&icon_color=%23E1DEDE&title=GitHub&edge_flat=false)](https://github.com/vskyv1101)
 <p>
-  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvskyv1101&count_bg=%2326CFFF&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
   
 <h3 align="center">My Stacks 💻 </h3>
 
